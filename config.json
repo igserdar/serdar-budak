@@ -2,17 +2,7 @@
   "base_url": "https://serdarbudak.netlify.app",
   "site_title": "Serdar Budak",
   "site_description": "Serdar Budak",
-  "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
-  ],
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "@serdarrbudak",
   "github_account": "igserdar"
